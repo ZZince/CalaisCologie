@@ -1,0 +1,9 @@
+folium
+rich
+PyQt6
+PyQt6-webengine
+PyQt6-sip
+psycopg2-binary
+python-dotenv
+geopy
+openpyxl
